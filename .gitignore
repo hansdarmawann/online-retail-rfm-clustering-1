@@ -1,0 +1,2 @@
+# Ignore temporary raw CSV (UCI download cache only)
+datasets/online_retail_raw.csv
